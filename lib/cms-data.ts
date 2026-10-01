@@ -153,9 +153,10 @@ export type CmsData = {
 };
 
 export const contactConfig = {
-  phoneDisplay: '+91 99999 99999',
-  phoneHref: 'tel:+919999999999',
-  whatsappNumber: '919999999999',
+  phoneDisplay: '+91 94708 37332',
+  phoneHref: 'tel:+919470837332',
+  whatsappDisplay: '+91 99551 03677',
+  whatsappNumber: '919955103677',
   email: 'advisory@glfproperties.in',
   officeAddress: 'Golden Leaf Properties Private Limited, office details editable from admin.',
   domain: 'https://glfproperties.in',

@@ -1935,7 +1935,7 @@ function ContactPage({
             <a className="contact-tile" href={whatsappUrl()}>
               <MessageCircle className="size-5" />
               <span>WhatsApp</span>
-              <strong>Start a conversation</strong>
+              <strong>{contactConfig.whatsappDisplay}</strong>
             </a>
             <a className="contact-tile" href={`mailto:${contactConfig.email}`}>
               <FileText className="size-5" />
